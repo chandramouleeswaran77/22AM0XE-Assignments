@@ -26,17 +26,23 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [Docker Desktop] Install Docker Desktop and verify the command “docker version”.
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/903e1283-f9a1-4ca4-b721-19f9adf04962)
+
+
 
 ***
 
 #### #2 [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version”
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/e31401f8-b6a6-4a1e-b67a-e8a7efec2cc0)
+
 
 ***
 
 #### #3 [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/9bec62e8-9198-4fa1-adc8-1dbc76a7e515)
+> ![image](https://github.com/user-attachments/assets/23c58169-cf81-4e7f-a223-3ddaf0f1d98b)
+
+
 
 ***
 
