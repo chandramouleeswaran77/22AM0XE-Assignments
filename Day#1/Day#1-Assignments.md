@@ -26,8 +26,9 @@
 
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
 > Add your answer here!
-> - Completion Badge
-> - Completion Screenshot	
+> - Completion Badge - ![image](https://github.com/user-attachments/assets/3733fc52-577f-4fa7-b508-9fda76bcef44)
+> - Completion Screenshot	 - ![image](https://github.com/user-attachments/assets/e30bd4ed-ecd6-4c46-8c89-5c749aa1cae9)
+
 
 ***
 
@@ -52,21 +53,19 @@
 ***
 
 #### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
-- For example:
-- Amazon Prime (Hosted on AWS)
-  - Logo: Place the logo here
-  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
+- LinkedIn (Hosted on Microsoft Azure)
+  - Logo: ![image](https://github.com/user-attachments/assets/f0f15bf6-e42f-4ffa-9ab0-14a6ad582c3b)
 
-> Add your answer here!
+  - Details: A popular platform, which showcase our skills
 
 ***
 
 #### #7 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+> https://github.com/chandramouleeswaran77/22AM0XE-Assignments/edit/7376222AL120/chandramouleeswaran_r/Day%231/Day%231-Assignments.md
 
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/000fe9a3-e0ce-4bc7-aa43-893c56aa8dcc)
 
 ***
