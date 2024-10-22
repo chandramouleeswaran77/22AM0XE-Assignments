@@ -73,12 +73,13 @@
 ***
 
 #### #7 Commit the code to the Github Repo. The repo should be a public one. And raise a PR to this repo: https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+> 
 
 ***
 
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
+> Github wiki link--
+> https://github.com/chandramouleeswaran77/22AM0XE-Assignments/wiki/Learnings-from-Machine-Learning-Deployment-Services-in-Public-Cloud-Services
 
 ***
 
